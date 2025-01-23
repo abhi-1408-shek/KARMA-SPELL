@@ -1,0 +1,20 @@
+Ths is a sampl txt file with severl erors.  
+Speling erors can be found almost everywhre.  
+The purpse of this txt file is to test the spel chek tool.  
+
+Here are sme cmmon mistakes:
+1. Grammer erors are common in writen txt.
+2. Some words are mispeled deliberatly, like accomodate insted of accommodate.
+3. The word "definately" is often mispeled, it should be "definitely."
+
+Punctuation also makes a diference Let us see, how the tool handles this  
+
+The txt cntains randomly mispeled wrds and missing punctuations as well  
+Can it detect "hte" for "the" or "writng" for "writing"?  
+
+Lastly, let’s add some diffcult words to test:
+- "recieve" instead of "receive"
+- "occured" instead of "occurred"
+- "seperate" instead of "separate"
+
+Thnk you for testng this txt file, I hop it wrks perfectly!
